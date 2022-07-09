@@ -1,5 +1,8 @@
 package br.com.letscode;
 
+import br.com.letscode.clientes.Cliente;
+import br.com.letscode.contas.Conta;
+
 public class App {
     public static void main( String[] args ) {
         // Definições

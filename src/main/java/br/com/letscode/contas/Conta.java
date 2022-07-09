@@ -1,6 +1,8 @@
-package br.com.letscode;
+package br.com.letscode.contas;
 
 import java.math.BigDecimal;
+
+import br.com.letscode.clientes.Cliente;
 
 public class Conta {
     // Definição dos atributos/características
